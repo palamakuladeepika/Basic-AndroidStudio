@@ -120,11 +120,10 @@ public class MainActivity extends AppCompatActivity {
 </manifest>
 ```
 ## OUTPUT
-<img width="960" alt="sms1" src="https://user-images.githubusercontent.com/94154679/198363943-0e48257e-43c3-4d5f-955c-1b96f79d449e.png">
-<img width="960" alt="sms2" src="https://user-images.githubusercontent.com/94154679/198363953-73b4de62-94a0-4acb-b355-3c895a47a0d7.png">
-<img width="960" alt="sms3" src="https://user-images.githubusercontent.com/94154679/198363959-c5110054-1fb6-4b1e-9c9c-befc1c3d38ce.png">
-<img width="960" alt="sms4" src="https://user-images.githubusercontent.com/94154679/198363963-c2467d16-f948-430f-84c8-b6baa2db7ee5.png">
-<img width="960" alt="sms5" src="https://user-images.githubusercontent.com/94154679/198363966-b8583e6b-7f0e-412b-83a7-cb1245072fd4.png">
+<img width="563" alt="sms1" src="https://user-images.githubusercontent.com/94154679/198364779-95c1ae17-f845-4708-b318-731d771cd0f2.png">
+<img width="530" alt="sms2" src="https://user-images.githubusercontent.com/94154679/198364786-f508f4b5-d99e-4710-a562-3448bf12cd30.png">
+<img width="535" alt="sms3" src="https://user-images.githubusercontent.com/94154679/198364789-01107011-954d-4d09-981a-a000c0cc7285.png">
+<img width="534" alt="sms4" src="https://user-images.githubusercontent.com/94154679/198364790-6fc7d377-790d-497e-872e-df245bb93da5.png">
 
 
 
