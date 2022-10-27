@@ -120,9 +120,7 @@ public class MainActivity extends AppCompatActivity {
 </manifest>
 ```
 ## OUTPUT
-<img width="559" alt="cont1" src="https://user-images.githubusercontent.com/94154679/198362180-f9f2d2de-80ea-421d-8291-1a4f4ae02a50.png">
-<img width="563" alt="cont2" src="https://user-images.githubusercontent.com/94154679/198362187-ba66eeab-5b8e-4782-a481-4a875cad3969.png">
-![cont3](https://user-images.githubusercontent.com/94154679/198362188-1f1845dc-15bf-4ebd-b536-572410e7d50c.png)
+
 
 
 
