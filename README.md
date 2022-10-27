@@ -1,6 +1,6 @@
 # Basic-AndroidStudio
 ```
-Developed: P Deepika
+Developed By:P Deepika
 Registered Number: 212221240035
 ```
 ### MainActivity.java:
